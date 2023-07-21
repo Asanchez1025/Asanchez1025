@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asanchez1025
-- 👀 I’m interested in becoming a software developer 
-- 🌱 I’m currently learning Python
+- 👀 I am a full stack developer (HTML, CSS, JavaScript, Python, MySQL, Flask)
+- 🌱 I’m currently practicing on mastering Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me islainvicta1025@gmail.com
 
